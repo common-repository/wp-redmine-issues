@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpri\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-30 15:08+0000\n"
+"PO-Revision-Date: 2018-08-11 18:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: Christoph Matt <christoph.matt@arcanasoft.de>\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: wpri.php\n"
+"X-Poedit-SearchPath-1: includes/wpri_start.php\n"
+"X-Poedit-SearchPath-2: includes/wpri_settings.php\n"
+"X-Poedit-SearchPath-3: includes/wpri_globals.class.php\n"
+"X-Poedit-SearchPath-4: includes/lib/wpri_wp_list_table.class.php\n"
+"X-Poedit-SearchPath-5: includes/lib/wpri_ticket_list_table.class.php\n"
+"X-Poedit-SearchPath-6: includes/lib/wpri_ticket_journal_table.class.php\n"
+"X-Poedit-SearchPath-7: includes/lib/wpri_ticket_details.class.php\n"
+"X-Poedit-SearchPath-8: includes/lib/wpri_ticket_create_page.class.php\n"
+"X-Poedit-SearchPath-9: includes/lib/wpri_redmine_wp_html.class.php\n"
+"X-Poedit-SearchPath-10: includes/lib/wpri_redmine_api.class.php\n"
+"X-Poedit-SearchPath-11: includes/lib/AF:WP_Html.class.php\n"
+"X-Poedit-SearchPathExcluded-0: i18n\n"
+
+msgid "Issue"
+msgstr "Ticket"
+
+msgid "Issues"
+msgstr "Tickets"
+
+msgid "New Issue"
+msgstr "Neues Ticket"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Not configured"
+msgstr "Nicht konfiguriert"
+
+msgid "Check settings"
+msgstr "Einstellungen überprüfen"
+
+msgid "Issues per page"
+msgstr "Tickets pro Seite"
+
+msgid "Show issue comments"
+msgstr "Zeige Ticket Kommentare"
+
+msgid "Use issue categories"
+msgstr "Ticket-Kategorien benutzen"
+
+msgid "Issue settings"
+msgstr "Ticket Einstellungen"
+
+msgid "Show issues"
+msgstr "Tickets anzeigen"
+
+msgid "You are not authorized to access this page."
+msgstr "Sie sind nicht berechtigt, auf diese Seite zuzugreifen."
+
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+msgid "No changes"
+msgstr "Keine Einstellungen wurden geändert"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "per page"
+msgstr "pro Seite"
+
+msgid "All status"
+msgstr "Alle Status"
+
+msgid "No issue status found"
+msgstr "Keinen Ticket Status gefunden"
+
+msgid "Project"
+msgstr "Projekt"
+
+msgid "Select project"
+msgstr "Projekt auswählen"
+
+msgid "All projects"
+msgstr "Alle Projekte"
+
+msgid "No projects found"
+msgstr "Keine Projekte gefunden"
+
+msgid "Tracker"
+msgstr "Tracker"
+
+msgid "All trackers"
+msgstr "Alle Tracker"
+
+msgid "No trackers found"
+msgstr "Keine Tracker gefunden"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Save"
+msgstr "Übernehmen"
+
+msgid "Internal error retrieving data"
+msgstr "Interner Fehler bei Abruf von Daten"
+
+msgid "accessing URL"
+msgstr "bei Aufruf der URL"
+
+msgid "Unexpected error accessing URL"
+msgstr "Unerwarteter Fehler bei Aufruf der URL"
+
+msgid "Error retrieving list from Redmine"
+msgstr "Fehler beim Abrufen der Liste von Redmine"
+
+msgid "Error creating selection list"
+msgstr "Fehler beim Erstellen der Auswahlliste"
+
+msgid "ago"
+msgstr "vor"
+
+msgid "No selection available"
+msgstr "Keine Auswahlmöglichkeit"
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "Create issue"
+msgstr "Ticket erstellen"
+
+msgid "category"
+msgstr "Kategorie"
+
+msgid "Create issue in"
+msgstr "Ticket erstellen in"
+
+msgid "Select tracker and category"
+msgstr "Tracker und Kategorie auswählen"
+
+msgid "Error received Project-ID -> Can not continue"
+msgstr "Projekt-ID nicht erhalten -> Kann nicht fortfahren"
+
+msgid "Subject"
+msgstr "Thema"
+
+msgid "Required field"
+msgstr "Pflichtfeld"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Complete details"
+msgstr "Details ergänzen"
+
+msgid "Missing Project-ID or Tracker-ID -> Can not continue"
+msgstr "Projekt-ID oder Tracker-ID nicht erhalten -> Kann nicht fortfahren"
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "email"
+msgstr "E-Mail"
+
+msgid "Send"
+msgstr "Absenden"
+
+msgid "Check and send"
+msgstr "Überprüfen und absenden"
+
+msgid "Required data missing"
+msgstr "Pflichtfelder sind nicht ausgefüllt"
+
+msgid "was created"
+msgstr "wurde erstellt"
+
+msgid "Show issue"
+msgstr "Ticket anzeigen"
+
+msgid "Unexpected data returned"
+msgstr "Unerwartete Daten wurden zurückgegeben"
+
+msgid "Issue list"
+msgstr "Ticket Liste"
+
+msgid "Error reading issue data"
+msgstr "Fehler beim Lesen der Ticketdaten"
+
+msgid "Back to issue list"
+msgstr "Zurück zur Ticket-Liste"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Updated"
+msgstr "Aktualisiert"
+
+msgid "New comment"
+msgstr "Neuer Kommentar"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+msgid "Created"
+msgstr "Erstellt"
+
+msgid "Comments"
+msgstr "Kommentare"
+
+msgid "Created by"
+msgstr "Erstellt von"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Assigned to"
+msgstr "Zugewiesen an"
+
+msgid "empty"
+msgstr "leer"
+
+msgid "No %s to show"
+msgstr "Keine %s anzuzeigen"
+
+msgid "Save changes"
+msgstr "Einstellungen speichern"
+
+msgid "General_Settings"
+msgstr "Allgemeine_Einstellungen"
+
+msgid "About the"
+msgstr "Über das"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "before"
+msgstr "vor"
+
+msgid "Developed by "
+msgstr "Entwickelt von"
+
+msgid "Donate"
+msgstr "Spenden"
+
+msgid "Rate this plugin on wordpress.org"
+msgstr "Bewerte dieses Plugin auf wordpress.org"

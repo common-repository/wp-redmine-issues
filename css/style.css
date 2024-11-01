@@ -1,0 +1,99 @@
+/*
+ * WP-Redmine-Issues (WPRI) by arcanasoft
+**/
+
+/*  Ticket List Table column settings */
+.column-id { 
+	width: 5%; 
+}
+.column-tracker {
+	width: 10%; 
+}
+	
+.column-updated_on { 
+	width: 15%;
+}
+
+.column-status { 
+	width: 10%;
+}
+.column-assigned_to { 
+	width: 10%;
+}
+
+
+/*  Ticket Journal List Table column settings */
+.column-created_on { 
+	width: 15%; 
+}
+.column-user { 
+	width: 10%; 
+}
+
+
+/* wpri-aligncenter */
+.wpri-aligncenter {
+    text-align: center;
+}
+.required-field-error {
+    border: 1px solid #ff0000 !important;
+}
+
+.inside {
+	margin-top:10px;
+	padding: 0 12px 12px;
+	line-height: 1.4em;
+	font-size: 13px;
+}
+
+/** LAYOUT **/
+.wpri-row { padding-top: 10px; }
+.wpri-column { float: left; }
+.wpri-column-100 { width: 100%; }
+.wpri-column-75 { width: 74%; }
+.wpri-column-50 { width: 49%; }
+.wpri-column-25 { width: 24%; }
+.wpri-row:after { clear: both; }
+
+.wpri-column .wrip-box {
+	border: 1px solid #e5e5e5;
+	background: #fff;
+    margin-bottom: 20px;
+}
+
+.wpri-column .wrip-box span {
+	font-weight: 600;
+}
+
+.wpri-column .wrip-box .wrip-box-title {
+	border-bottom: 1px solid #eee;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	padding: 8px 12px;
+	margin: 0;
+}
+
+.wpri-column .wrip-box inside {
+	margin-top: 6px;
+}
+
+.wrip-infobox {
+	padding: 6px 10px 8px;
+}
+
+
+/** FOOTER **/
+#wpri-footer {
+    border-top: 1px solid #e1e1e1;
+    margin-top: 15px;
+    position: relative;
+    color: #555d66;
+}
+
+/* Special CSS for Plugin Content **/
+/** Ticket-Deatils **/
+.wpri-sendform textarea {
+	width: 100%;
+}
